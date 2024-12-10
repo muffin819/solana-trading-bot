@@ -22,13 +22,13 @@ Includes two examples, one using HTTP requests and one using the more efficient 
 - Node.js (v14 or later recommended)
 - npm (comes with Node.js)
 - A Solana wallet with SOL
-- API Key (Billing Token) from [Solana Tracker Data API](https://docs.solanatracker.io)
+- Solana Tracker API Key
 
 ## Installation
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YZYLAB/solana-trading-bot.git
+git clone https://github.com/muffin819/solana-trading-bot.git
 cd solana-trading-bot
 ```
 
@@ -64,7 +64,7 @@ Adjust the settings in your `.env` file to customize the bot's behavior:
 - PRIORITY_FEE: Priority fee for transactions
 - JITO: Set to "true" to use Jito for transaction processing
 - RPC_URL: Your Solana RPC URL
-- API_KEY: Your Solana Tracker - [Data API Key](https://www.solanatracker.io/data-api)
+- API_KEY: Your Solana Tracker 
 - PRIVATE_KEY: Your wallet's private key
 - MIN_LIQUIDITY / MAX_LIQUIDITY: Liquidity range for token selection
 - MIN_MARKET_CAP / MAX_MARKET_CAP: Market cap range for token selection
@@ -75,7 +75,7 @@ Adjust the settings in your `.env` file to customize the bot's behavior:
 
 ## API Usage and Fees
 
-This bot uses the Solana Tracker API. Please refer to [Solana Tracker's documentation](https://docs.solanatracker.io) for information about API usage and associated fees.
+This bot uses the Solana Tracker API. Please refer for information about API usage and associated fees.
 
 ## Disclaimer
 
@@ -89,8 +89,12 @@ The goal of this project is to show the potential ways of using the Solana Track
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/YZYLAB/solana-trading-bot/issues).
+Contributions, issues, and feature requests are welcome!
 
 ## Support
 
 If you find this project helpful, please consider giving it a ⭐️ on GitHub!
+
+## Contact
+
+Telegram:https://t.me/dogewhiz
